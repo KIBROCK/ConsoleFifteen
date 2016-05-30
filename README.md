@@ -1,2 +1,2 @@
 # ConsoleFifteen
-Console Fifteen
+Fifteen game in console
